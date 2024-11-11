@@ -5,12 +5,12 @@
 ### • 1. Instale as dependências
 Para começar, você precisará instalar a biblioteca `yfinance` 📦. Você pode fazer isso usando o seguinte comando:
 
-                pip install yfinanc
+    pip install yfinanc
 
 
 • 2. Execute o script
  
-            python nome_do_arquivo.py
+    python nome_do_arquivo.py
 
 • 3. O que será exibido no terminal? 🤔
 ## • O script vai buscar as informações de mercado para as ações PETR3.SA e PETR4.SA e exibirá no terminal as seguintes informações:
@@ -22,21 +22,21 @@ Para começar, você precisará instalar a biblioteca `yfinance` 📦. Você pod
 ### • 📉 Preço Mínimo (Low)
 ### • 📊 Volume de transações
 
-                                  Informações sobre as ações de PETR3.SA:
-                                  Data: 2024-11-11 10:45:00
-                                 Abertura: R$30.25
-                                Fechamento: R$31.00
-                                Máxima: R$31.10
-                                Mínima: R$29.85
-                                Volume: 5.000.000
+    Informações sobre as ações de PETR3.SA:
+    Data: 2024-11-11 10:45:00
+    Abertura: R$30.25
+    Fechamento: R$31.00
+    Máxima: R$31.10
+    Mínima: R$29.85
+    Volume: 5.000.000
 
-                                Informações sobre as ações de PETR4.SA:
-                                Data: 2024-11-11 10:45:00
-                                Abertura: R$28.15
-                                Fechamento: R$29.10
-                                Máxima: R$29.30
-                                Mínima: R$27.90
-                                Volume: 3.200.000
+    Informações sobre as ações de PETR4.SA:
+    Data: 2024-11-11 10:45:00
+    Abertura: R$28.15
+    Fechamento: R$29.10
+    Máxima: R$29.30
+    Mínima: R$27.90
+    Volume: 3.200.000
 
 # ⚙️ Tecnologias utilizadas
 ### • 🐍 Python: Linguagem principal do projeto.
